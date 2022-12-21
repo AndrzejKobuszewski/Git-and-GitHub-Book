@@ -1,1 +1,2 @@
 Zapisuję tekst.
+Nie wiem co się zmienia może git podpowie
