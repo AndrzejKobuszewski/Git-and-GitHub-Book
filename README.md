@@ -37,6 +37,7 @@ Projekt powstał w trakcie czytania książki "Git i GitHub Kontrola wersji, zar
 2.4. git branch -d - usuwa gałąź
 2.5. git remote set-url origin ...link do repo...
 2.6. git diff --staged - różnice w przygotowanych plikach
+2.7. git rebase master .... nazwa nowej gałęzi.... - uworzenie nowej gałęzi z rodzica z najnowszego commita.
 
 
 
