@@ -35,7 +35,8 @@ Projekt powstał w trakcie czytania książki "Git i GitHub Kontrola wersji, zar
 2.2. git remote - nazwa repozystorium oraz git remote -v - wyświetla origin repozytorium git
 2.3. git clone, git pull, git checkout master  git merge develop, git branch (nowa gałąź)
 2.4. git branch -d - usuwa gałąź
-2.5.  
+2.5. git remote set-url origin ...link do repo...
+2.6. git diff --staged - różnice w przygotowanych plikach
 
 
 
