@@ -1,2 +1,4 @@
 Zapisuję tekst.
 Nie wiem co się zmienia może git podpowie
+Zrozumieć co się dzieje w lokalnym i kiedy się updateuje
+
