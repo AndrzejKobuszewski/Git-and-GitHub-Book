@@ -1,1 +1,2 @@
 sprawdzamy kontrolę wersji
+w tym wpisie zmieniono gałąź z main na master jako tę domyślną - główną
