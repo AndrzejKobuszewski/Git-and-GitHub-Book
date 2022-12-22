@@ -33,6 +33,9 @@ Projekt powstał w trakcie czytania książki "Git i GitHub Kontrola wersji, zar
 2. Zdalny GIT
 2.1. sudo git remote add origin ...link do utworzonego repo... - dodaje repo
 2.2. git remote - nazwa repozystorium oraz git remote -v - wyświetla origin repozytorium git
-2.3. git  
+2.3. git clone, git pull, git checkout master  git merge develop, git branch (nowa gałąź)
+2.4. git branch -d - usuwa gałąź
+2.5.  
+
 
 
