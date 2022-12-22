@@ -31,5 +31,8 @@ Projekt powstał w trakcie czytania książki "Git i GitHub Kontrola wersji, zar
 1.3.2. NIGDY NIE ZMIENIAMY PRZESZŁOŚCI
 
 2. Zdalny GIT
-2.1. sudo git remote add origin https://github.com/AndrzejKobuszewski/Git-and-GitHub-Book.git
+2.1. sudo git remote add origin ...link do utworzonego repo... - dodaje repo
+2.2. git remote - nazwa repozystorium oraz git remote -v - wyświetla origin repozytorium git
+2.3. git 
+
 
